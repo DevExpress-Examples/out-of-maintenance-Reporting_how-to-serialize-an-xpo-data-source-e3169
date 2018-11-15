@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsApplication54/Form1.cs) (VB: [Form1.vb](./VB/WindowsApplication54/Form1.vb))
+* [Person.cs](./CS/WindowsApplication54/Person.cs) (VB: [Person.vb](./VB/WindowsApplication54/Person.vb))
+<!-- default file list end -->
 # How to serialize an XPO data source
 
 
